@@ -105,18 +105,7 @@
       </ul>
     </section>
 
-  <section id="results">
-      <h2>Results &amp; Visuals</h2>
-      <figure>
-        <img
-          src="https://github.com/user-attachments/assets/0af8fecd-5fe4-4fdc-b082-db44024413dc"
-          alt="Simulation results comparing Fog–Cloud vs Cloud-only models"
-          style="max-width:100%;height:auto;"
-          width="1200"
-        />
-        <figcaption>Performance comparison: Fog–Cloud vs Cloud-only models.</figcaption>
-      </figure>
-    </section>
+ 
 
   <section id="conclusion">
       <h2>Conclusion</h2>
@@ -128,6 +117,12 @@
         decision-making</strong> and scales gracefully with device growth, enabling reliable and sustainable smart-energy operations.
       </p>
     </section>
+     <img
+          src="https://github.com/user-attachments/assets/0af8fecd-5fe4-4fdc-b082-db44024413dc"
+          alt="Simulation results comparing Fog–Cloud vs Cloud-only models"
+          style="max-width:100%;height:auto;"
+          width="1200"
+        />
 
   <hr />
 
