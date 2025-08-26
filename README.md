@@ -131,16 +131,4 @@
 
   <hr />
 
-  <footer>
-      <p class="muted">
-        Repository name suggestion:
-        <code>improved-efficiency-fog-cloud-computing</code>
-      </p>
-      <p class="muted">© Your Name / Contributors</p>
-    </footer>
-  </article>
-</main>
-
-<a class="toplink" href="#top" aria-label="Back to top">↑ Top</a>
-</body>
-</html>
+ 
